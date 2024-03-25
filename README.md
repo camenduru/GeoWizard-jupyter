@@ -18,7 +18,7 @@ https://arxiv.org/abs/2403.12013
 https://fuxiao0719.github.io/projects/geowizard/
 
 ### 🖼 Output
-
+![Screenshot 2024-03-25 191103](https://github.com/camenduru/GeoWizard-jupyter/assets/54370274/29a804bb-0305-4ecd-996f-b04edc1645e9)
 
 ### 🏢 Sponsor
 https://modelslab.com
